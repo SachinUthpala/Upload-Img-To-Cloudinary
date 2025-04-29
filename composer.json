@@ -1,0 +1,17 @@
+{
+    "name": "user/image-upload",
+    "autoload": {
+        "psr-4": {
+            "User\\ImageUpload\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "EastLinkProjects",
+            "email": "projects3@eastlink.lk"
+        }
+    ],
+    "require": {
+        "cloudinary/cloudinary_php": "^3.1"
+    }
+}
